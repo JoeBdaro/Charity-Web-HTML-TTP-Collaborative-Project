@@ -74,13 +74,12 @@ p {
 	text-align: justify;
 	width: 40%;
 	color: #33beff;
-	background-color: #FFF;
+	background-color: rgba(255, 255, 255, .7);
 	font-size: 18px;
 	font-weight: bold;
 	padding: 15px 30px 15px 30px;
 	border-radius: 30px;
 	margin-bottom: 25px;
-
 }
 
 #image {
@@ -112,5 +111,7 @@ p {
 #btn a {
 	text-decoration: none;
 	color: #ff4d4d;
+}
+
 
 }
